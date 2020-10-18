@@ -10,7 +10,7 @@ export class header extends Component {
             <div className="collapse navbar-collapse" id="navbarTogglerDemo01">
                 <a className="navbar-brand" href="#">Cotizador</a>
                 <ul className="navbar-nav mr-auto mt-2 mt-lg-0">
-                    <li> enlace1</li>
+                        <li><a href="">enlace 112 </a> </li>
                 </ul>
             </div>
             </nav>
